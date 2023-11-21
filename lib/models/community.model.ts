@@ -1,4 +1,4 @@
-import mongoose, { mongo } from "mongoose";
+import mongoose from "mongoose";
 
 const communitySchema = new mongoose.Schema({
   id: {
@@ -7,8 +7,8 @@ const communitySchema = new mongoose.Schema({
   },
   username: {
     type: String,
-    required: true,
     unique: true,
+    required: true,
   },
   name: {
     type: String,
