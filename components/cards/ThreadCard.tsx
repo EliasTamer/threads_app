@@ -114,7 +114,7 @@ const ThreadCard = ({
           </div>
         </div>
 
-        { community && (
+        {!isComment && community && (
           <Link
             href={`/communities/${community.id}`}
             className="mt-5 flex items-center"
