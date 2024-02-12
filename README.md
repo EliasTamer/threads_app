@@ -21,9 +21,6 @@
 1. ⚙️ [Tech Stack](#tech-stack)
 2. 🔋 [Features](#features)
 3. 🤸 [Quick Start](#quick-start)
-4. 🔗 [Links](#links)
-5. 🚀 [More](#more)
-
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
